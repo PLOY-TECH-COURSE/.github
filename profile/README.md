@@ -52,16 +52,6 @@
 
 ---
 
-## 📂 Repository 안내
-
-이 Organization에는 다음과 같은 Repository가 포함될 수 있습니다:
-
-- `curriculum` – 전체 커리큘럼 및 과제 모음
-- `projects` – 팀/개인 프로젝트 기록
-- `blogs` – 우수 블로그 정리 및 공유
-- `mentor-guide` – 멘토용 가이드 및 회고 기록
-
----
 
 ## 🙌 함께 만드는 성장의 기록
 
